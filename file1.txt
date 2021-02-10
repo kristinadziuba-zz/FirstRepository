@@ -7,3 +7,4 @@ again changes by user1
 another line from user1
 here we make changes by user1
 changes by user2
+line from user1 - lesson about rebase
